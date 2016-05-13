@@ -13,7 +13,7 @@
     <packaging>jar</packaging>
     <name>json-patch</name>
     <description>Java JSON patch implementation</description>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <url>http://github.com/whirlwin</url>
 
     <licenses>
